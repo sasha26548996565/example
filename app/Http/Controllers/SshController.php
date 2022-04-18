@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class SshController extends Controller
 {
-    public function mehmed2()
+    public function mehmed()
     {
-        return 'cute';
+        return 'very very cute';
     }
 }
